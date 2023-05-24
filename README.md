@@ -1,4 +1,4 @@
-# Zillow Real Estate Market Analysis
+# Zillow Real Estate Price Prediction
 
 ### Project Objectives
 Every individual need to deal with the real estate or housing market at certain point of time in life. Having a good overview on the market will help in buying or selling the house in the market at right price.
@@ -29,6 +29,6 @@ In this project, Predict the price of unit area for houses given their features.
 2. **RMSE of the models**
 ![RMSE results](https://github.com/Ashleshk/Data-Analysis-Zillow-Real-Estate-Market-Analysis/blob/main/Result/RMSE.png)
 
-We can see that the XGBRegression Model performs the best
+We can see that the **XGBRegression Model** performs the best
 - R2 Score: 0.780957
 - RMSE: 6.09142
